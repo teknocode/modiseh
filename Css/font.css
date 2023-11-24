@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'IRANSansWebLight';
+    src: url(./Font/IRANSansWeb\(FaNum\)_Light.woff);
+}
+@font-face {
+    font-family: 'IRANSansWebFaNumBold';
+    src: url(./Font/IRANSansWebFaNum-Bold.woff2);
+}
+@font-face {
+    font-family: 'IRANSansWebFaNumLight-woff2';
+    src: url(./Font/IRANSansWebFaNum-Light.woff2);
+}
+@font-face {
+    font-family: 'YekanBakh-Bold';
+    src: url(./Font/YekanBakh-Bold.woff2);
+}
+@font-face {
+    font-family: 'YekanBakh-Light';
+    src: url(./Font/YekanBakh-Light.woff2);
+}
+@font-face {
+    font-family: 'YekanBakh-Medium';
+    src: url(./Font/YekanBakh-Medium.woff2);
+}
+@font-face {
+    font-family: 'YekanBakh-Regular';
+    src: url(./Font/YekanBakh-Regular.woff2);
+}
